@@ -3,6 +3,7 @@
 **Trip Overview:**
 * **Travelers:** 4 Adults + Car.
 * **Strategy:** High-value sightseeing; hit events before they close; travel on Christmas Day for empty roads.
+* **Highlights:** Bath Market, Bamburgh Coast, Edinburgh Xmas, Highlands, and Lake District Stones.
 
 ---
 
@@ -12,7 +13,7 @@
 ### **Saturday, Dec 13: The Bath Christmas Market**
 *⚠️ **Critical:** This is the FINAL weekend of the market. It closes Dec 14th.*
 
-* **07:30 | Depart Home**
+* **07:30 | Depart Bexleyheath**
     * *Drive:* ~2 hrs 45 mins via M4.
     * *Target:* **Lansdown Park & Ride** (Postcode: `BA1 9BJ`).
     * *Note:* Do NOT drive into Bath city centre; traffic will be gridlocked.
@@ -39,7 +40,7 @@
 ---
 
 ## 🚗 Phase 2: The Scotland Road Trip (Dec 20 – Dec 25)
-*Route: London → York → Edinburgh → Glencoe → Oban → Lakes → Home.*
+*Route: London → York → Bamburgh → Edinburgh → Oban → Lakes → Home.*
 
 ### **Day 1: Saturday, Dec 20 (London to York)**
 * **08:00 | Depart London**
@@ -61,18 +62,23 @@
     * *Mid-Range:* **Novotel York Centre** (Has parking).
     * *Budget:* **Ibis York Centre**.
 
-### **Day 2: Sunday, Dec 21 (York to Edinburgh)**
-* **09:00 | Depart York**
-    * *Drive:* ~2.5 hrs on A1(M).
-* **10:30 | Stop: Angel of the North**
+### **Day 2: Sunday, Dec 21 (York to Bamburgh to Edinburgh)**
+* **08:30 | Depart York**
+    * *Drive:* ~1 hr 15 mins to Gateshead.
+* **09:45 | Stop 1: Angel of the North**
     * *Postcode:* `NE9 7TY`. A 20-min photo stop at the massive statue (Free).
-* **13:30 | Arrive Edinburgh**
+* **10:15 | Drive to Coast**
+    * *Drive:* ~1 hour via A1.
+* **11:30 | Stop 2: Bamburgh Castle**
+    * *Action:* Park at the "Links Car Park" (below the castle).
+    * *The View:* Walk onto the beach. The view of the castle from the sand dunes is world-class (and free).
+    * *Lunch:* Grab food in Bamburgh village (e.g., The Copper Kettle).
+* **13:30 | Drive to Edinburgh**
+    * *Drive:* ~1 hr 30 mins.
+* **15:00 | Arrive Edinburgh**
     * *Parking:* **NCP Castle Terrace** (`EH1 2EW`) is central if your hotel has none.
-* **14:30 | Princes Street Gardens Market**
+* **16:00 | Princes Street Gardens Market**
     * Head straight to the Christmas Market in the gardens.
-    * *Drink:* Hot Cider or Mulled Wine to keep warm.
-* **19:00 | Dinner**
-    * *Suggestion:* **Mussel Inn** (Seafood) or **Bertie's Proper Fish & Chips** (Victoria St).
 * **🛌 Accommodation (Edinburgh - 2 Nights):**
     * *Top Pick:* **Apex Grassmarket Hotel** (Iconic Castle views).
     * *Reliable:* **Premier Inn Edinburgh City Centre (Lauriston Place)**.
@@ -90,20 +96,20 @@
 * **18:00 | The Dome Lights**
     * Walk to **George Street**. Visit **The Dome** bar/restaurant just to look at the pillars wrapped in lights.
 
-### **Day 4: Tuesday, Dec 23 (The "History & Highlands" Route)**
+### **Day 4: Tuesday, Dec 23 (The Highlands & Coast)**
 * **08:30 | Depart Edinburgh**
-    * *Drive:* 45 mins to Falkirk.
+    * *Drive:* 45 mins towards Falkirk.
 * **09:15 | The Kelpies**
     * *Stop:* 30 mins. Two massive 30-meter high horse head sculptures. Free.
-* **10:30 | Callander (Gateway to Highlands)**
-    * *Stop:* 30 mins. Grab coffee/pastries for the road.
+* **10:30 | Callander (Town Stop)**
+    * *Stop:* 45 mins. Grab coffee/pastries. Look for Highland Cows in fields.
 * **12:30 | Glencoe (The Main Event)**
     * *Route:* Drive the A82 across Rannoch Moor.
     * *Stops:* Pull over at the **"Three Sisters Viewpoint"**.
 * **15:00 | Drive to Oban**
     * *Route:* Head South-West along the coast.
 * **16:30 | Oban Harbour**
-    * Walk the harbour wall at twilight. See the McCaig's Tower lit up.
+    * Walk the harbour wall at twilight. See McCaig's Tower lit up.
 * **🛌 Accommodation (Oban):**
     * *Option A:* **Perle Oban Hotel** (Luxury, waterfront).
     * *Option B:* **Premier Inn Oban** (Reliable).
@@ -126,21 +132,21 @@
 * **18:00 | Christmas Eve Dinner**
     * *Action:* Book **The Dog & Gun** (Keswick) or **The George Hotel** (Penrith).
 * **🛌 Accommodation (Lake District - 1 Night):**
+    * *Strategy:* Avoid "3-night Xmas Package" hotels.
     * *Book:* **Premier Inn Penrith** or **Travelodge Cockermouth**.
 
-### **Day 6: Thursday, Dec 25 (Waterfalls & Scenic Drive)**
+### **Day 6: Thursday, Dec 25 (Christmas Day Return)**
 * **09:30 | Aira Force Waterfall**
     * *Location:* Ullswater (`CA11 0JS`).
-    * *Activity:* 1-hour circular walk to the 65ft waterfall. A perfect Christmas morning tradition.
+    * *Activity:* 1-hour circular walk to the 65ft waterfall.
+    * *Status:* It is open (outdoor National Trust site). Perfect Christmas morning activity.
 * **11:00 | Ullswater Drive**
-    * Drive along the lake on the A592.
-    * *Stop:* **Glencoyne Bay** for a photo of the lake reflection.
+    * Drive along the lake on the A592. Stop at **Glencoyne Bay**.
 * **12:00 | Depart for London**
     * *Traffic:* Roads will be empty.
 * **13:30 | The "Car Picnic"**
     * Stop at **Tebay Services** (M6) scenic duck pond area.
 * **17:00 | Arrive Home**
-
 
 ---
 
