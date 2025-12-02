@@ -14,7 +14,7 @@
 ### **Saturday, Dec 13: The Bath Christmas Market**
 *⚠️ **Critical:** This is the FINAL weekend of the market. It closes Dec 14th.*
 
-* **07:30 | Depart Bexleyheath**
+* **07:30 | Depart Home**
     * *Drive:* ~2 hrs 45 mins via M4.
     * *Target:* **Lansdown Park & Ride** (Postcode: `BA1 9BJ`).
     * *Note:* Do NOT drive into Bath city centre; traffic will be gridlocked.
