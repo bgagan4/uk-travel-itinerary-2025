@@ -2,8 +2,7 @@
 
 **Trip Overview:**
 * **Travelers:** 4 Adults + Car.
-* **Strategy:** High-value sightseeing (low cost/high impact); hit events before they close; travel on Christmas Day for empty roads.
-* **Key Change:** Only ONE paid castle (Edinburgh). All others are exterior views or free ruins.
+* **Strategy:** High-value sightseeing; hit events before they close; travel on Christmas Day for empty roads.
 
 ---
 
