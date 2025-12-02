@@ -2,7 +2,7 @@
 
 **Trip Overview:**
 * **Travelers:** 4 Adults + Car.
-* **Base:** Bexleyheath.
+* **Base:** Home.
 * **Goals:** Major events, Scotland Road Trip, Family Time.
 
 ---
@@ -24,17 +24,8 @@
 ---
 
 ## 🚗 Phase 2: The Scotland Road Trip (Dec 20 – Dec 25)
-*We have separated this detailed plan into its own file for easier navigation.*
 
 ### 📄 **[Click here to open the Scotland Road Trip Itinerary](./scotland_roadtrip.md)**
-
-**Summary of Phase 2:**
-* **Dec 20:** London → York (Christmas Market).
-* **Dec 21:** York → Bamburgh Castle → Edinburgh.
-* **Dec 22:** Edinburgh Castle & City.
-* **Dec 23:** **Glenfinnan Viaduct**, Glencoe & Oban.
-* **Dec 24:** Lochs, Ancient Stones & Christmas Eve Dinner (Lakes).
-* **Dec 25:** Waterfalls & Empty Roads Drive Home.
 
 ---
 
