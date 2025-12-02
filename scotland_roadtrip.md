@@ -57,25 +57,25 @@
 * **18:00 | The Dome Lights**
     * Walk to **George Street** to see The Dome's famous Christmas lights.
 
-### **Day 4: Tuesday, Dec 23 (Glenfinnan & The Highlands)**
+### **Day 4: Tuesday, Dec 23 (The "Film Location" Day)**
 * **08:00 | Depart Edinburgh (Strict Start)**
-    * *Reason:* We added Glenfinnan, so we need to save daylight.
 * **08:45 | The Kelpies**
     * *Stop:* 20 mins. Giant horse head sculptures (Free).
-* **10:00 | Callander**
-    * *Stop:* 20 mins. Coffee/Pastries grab-and-go.
-* **12:00 | Glencoe**
-    * *Stop:* **Three Sisters Viewpoint**.
-    * *Photo:* The most famous view in Scotland.
+* **09:30 | Doune Castle (Winterfell/Outlander)**
+    * *Stop:* 20 mins. Drive by and walk to the river bank for the famous exterior view.
+    * *Cost:* Free (Exterior).
+* **10:30 | Glencoe**
+    * *Drive:* Through Callander and onto Rannoch Moor.
+    * *Stop:* **Three Sisters Viewpoint**. The most famous view in Scotland.
 * **13:00 | Drive to Glenfinnan**
     * *Drive:* ~1 hour via Fort William.
 * **14:00 | Glenfinnan Viaduct**
     * *Location:* `PH37 4LT`.
-    * *The View:* Park at the Visitor Centre. Walk the short trail (10 mins) to the viewpoint.
-    * *Note:* The steam train doesn't run in Dec, but the bridge view is iconic.
-* **15:00 | Drive to Oban**
-    * *Drive:* ~1 hr 15 mins.
-    * *Sunset:* The sun sets around 15:50, so this drive will be in twilight/dark.
+    * *The View:* Walk the short trail to see the Harry Potter bridge.
+* **15:30 | Castle Stalker**
+    * *Location:* Appin (`PA38 4BL`). On the way to Oban.
+    * *The View:* Pull over at the "Castle Stalker View" cafe car park.
+    * *Timing:* You will catch the silhouette of the castle on the water just as the sun sets (15:50).
 * **16:30 | Arrive Oban**
     * *Activity:* Walk the harbour front.
 * **🛌 Accommodation (Oban):**
@@ -90,7 +90,10 @@
     * *Stop:* Roadside photo of the ruins.
 * **12:30 | Loch Lomond (Luss)**
     * *Stop:* Walk the pier at Luss village.
-* **15:00 | Castlerigg Stone Circle (Keswick)**
+* **14:30 | Gretna Green**
+    * *Stop:* 30 mins. The "Famous Blacksmiths Shop".
+    * *Why:* Historic spot for runaway weddings on the border.
+* **16:00 | Castlerigg Stone Circle (Keswick)**
     * *Highlight:* Arrive for the last light ("Golden Hour"). Ancient stones with mountain backdrop.
 * **16:30 | Check-in (Lake District)**
 * **18:00 | Christmas Eve Dinner**
