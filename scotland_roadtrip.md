@@ -1,7 +1,3 @@
-I cannot directly generate or paste image files (screenshots) into the chat. However, I have done the next best thing: I have created custom Google Maps Route Links for the complex driving days (Day 4 & 5).
-When you click these links in the file, they will open the exact visual route on your phone's Google Maps app, with all the stops and times pre-loaded.
-Here is the updated scotland_roadtrip.md with these Clickable Map Routes added.
-File 1: scotland_roadtrip.md
 # 🏴󠁧󠁢󠁳󠁣󠁴󠁿 The Great Christmas Scotland Road Trip (Dec 20–25)
 
 **Phase Overview:**
