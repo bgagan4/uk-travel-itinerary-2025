@@ -2,8 +2,8 @@
 
 **Phase Overview:**
 * **Dates:** Dec 20 – Dec 25, 2025.
-* **Route:** London → York → Edinburgh → Highlands (Glenfinnan) → Oban → Lakes → Home.
-* **Key Strategy:** Maximizing daylight for scenery; utilizing Christmas Day for traffic-free travel.
+* **Route:** London → York → Edinburgh → Stirling → Glencoe → Glenfinnan → Killin → Lakes → Home.
+* **Key Strategy:** "Outside-Only" castle stops to save time; tight driving schedule to beat the 3:45 PM sunset.
 
 ---
 
@@ -19,7 +19,7 @@
     * Eat at the **Shambles Market Food Court**.
     * Walk down **The Shambles** (Harry Potter inspiration).
 * **15:00 | York Minster**
-    * Visit the cathedral (Tickets required).
+    * Visit the cathedral (Tickets required, but worth it inside).
 * **16:30 | St Nicholas Fair (Market)**
     * *Location:* Parliament Street.
     * *Note:* This is the *last full weekend* of the market.
@@ -46,7 +46,7 @@
 
 ### **Day 3: Monday, Dec 22 (Edinburgh City)**
 * **09:30 | Edinburgh Castle**
-    * *Action:* **Book this slot in advance.** The only paid castle on the trip.
+    * *Action:* **Book this slot in advance.** This is the *only* castle you will pay to enter.
 * **12:00 | The Royal Mile**
     * Walk down the Royal Mile.
     * *Lunch:* **Oink** (Victoria Street) for hog roast rolls.
@@ -57,58 +57,67 @@
 * **18:00 | The Dome Lights**
     * Walk to **George Street** to see The Dome's famous Christmas lights.
 
-### **Day 4: Tuesday, Dec 23 (The "Film Location" Day)**
-* **08:00 | Depart Edinburgh (Strict Start)**
-* **08:45 | The Kelpies**
-    * *Stop:* 20 mins. Giant horse head sculptures (Free).
-* **09:30 | Doune Castle (Winterfell/Outlander)**
-    * *Stop:* 20 mins. Drive by and walk to the river bank for the famous exterior view.
-    * *Cost:* Free (Exterior).
-* **10:30 | Glencoe**
-    * *Drive:* Through Callander and onto Rannoch Moor.
-    * *Stop:* **Three Sisters Viewpoint**. The most famous view in Scotland.
-* **13:00 | Drive to Glenfinnan**
-    * *Drive:* ~1 hour via Fort William.
-* **14:00 | Glenfinnan Viaduct**
-    * *Location:* `PH37 4LT`.
-    * *The View:* Walk the short trail to see the Harry Potter bridge.
-* **15:30 | Castle Stalker**
-    * *Location:* Appin (`PA38 4BL`). On the way to Oban.
-    * *The View:* Pull over at the "Castle Stalker View" cafe car park.
-    * *Timing:* You will catch the silhouette of the castle on the water just as the sun sets (15:50).
-* **16:30 | Arrive Oban**
-    * *Activity:* Walk the harbour front.
-* **🛌 Accommodation (Oban):**
-    * *Options:* **Perle Oban Hotel** or **Premier Inn Oban**.
-    * *Dinner:* **Cuan Mor** (Pub) or **Ee-usk** (Seafood).
+### **Day 4: Tuesday, Dec 23 (The "Wife's Wishlist" Route)**
+*Goal: Hit 3 iconic locations before reaching Glenfinnan at sunset. Tight timing!*
 
-### **Day 5: Wednesday, Dec 24 (Lochs & The Lakes)**
-* **08:30 | Depart Oban**
-* **09:15 | St Conan’s Kirk**
-    * *Stop:* 30 mins. Amazing church on Loch Awe (Donation).
-* **10:15 | Kilchurn Castle**
-    * *Stop:* Roadside photo of the ruins.
-* **12:30 | Loch Lomond (Luss)**
-    * *Stop:* Walk the pier at Luss village.
-* **14:30 | Gretna Green**
-    * *Stop:* 30 mins. The "Famous Blacksmiths Shop".
-    * *Why:* Historic spot for runaway weddings on the border.
-* **16:00 | Castlerigg Stone Circle (Keswick)**
-    * *Highlight:* Arrive for the last light ("Golden Hour"). Ancient stones with mountain backdrop.
+* **08:00 | Depart Edinburgh (Strict Start)**
+    * *Drive:* 50 mins.
+* **08:50 | The Kelpies**
+    * *Stop:* 30 mins. Giant horse head sculptures (Free).
+* **09:40 | Stirling Castle (Outside Only)**
+    * *Stop:* 30 mins.
+    * *View:* Walk up to the Esplanade for the view, or take a photo from the road below. Do not enter.
+* **10:30 | Doune Castle (Winterfell)**
+    * *Stop:* 20 mins.
+    * *View:* Walk from the car park to the river bank for the classic "Game of Thrones/Monty Python" view.
+* **12:30 | Glencoe**
+    * *Drive:* 1 hr 40 mins from Doune.
+    * *Lunch:* Eat sandwiches in the car to save time.
+    * *Stop:* **Three Sisters Viewpoint**. The most famous view in Scotland.
+* **14:30 | Drive to Glenfinnan**
+    * *Drive:* ~1 hour via Fort William.
+* **15:30 | Glenfinnan Viaduct**
+    * *Location:* `PH37 4LT`.
+    * *The View:* Walk the short trail (10 mins) to the viewpoint. You arrive just before sunset (3:50 PM).
+* **16:30 | Check-in Hotel**
+    * *Location:* Fort William or Glencoe area.
+* **🛌 Accommodation:**
+    * *Options:* **The Isles of Glencoe Hotel** or **Premier Inn Fort William**.
+
+### **Day 5: Wednesday, Dec 24 (The "Killin" Route South)**
+*Goal: Waterfalls, Ruins, and Ancient Stones before Christmas Eve dinner.*
+
+* **08:30 | Depart Hotel**
+* **09:15 | Kilchurn Castle**
+    * *Stop:* 15 mins. Photo of the ruins from the roadside layby.
+* **10:15 | Falls of Dochart (Killin)**
+    * *Stop:* 30 mins. Beautiful rapids running through the village.
+* **11:00 | Drive South (The Long Leg)**
+    * *Route:* A85 -> A84 (Callander) -> M9 -> M74.
+* **13:00 | Moffat (Lunch)**
+    * *Stop:* 45 mins. A cute town famous for Toffee.
+* **14:30 | Shap Abbey**
+    * *Note:* Only visit if roads are clear of ice. It is a secluded ruin.
+* **15:30 | Castlerigg Stone Circle (Keswick)**
+    * *Highlight:* Arrive for "Golden Hour" (Sunset 3:45 PM). Free ancient stones with mountain backdrop.
 * **16:30 | Check-in (Lake District)**
 * **18:00 | Christmas Eve Dinner**
-    * *Action:* **Pre-book a table.** Crucial.
+    * *Action:* **Pre-book a table.**
     * *Suggestion:* **The Dog & Gun** (Keswick).
 * **🛌 Accommodation (Lake District):**
     * *Book:* **Premier Inn Penrith** or **Travelodge Cockermouth** (Allows 1-night stay).
 
 ### **Day 6: Thursday, Dec 25 (Christmas Return)**
-* **10:00 | Aira Force Waterfall**
-    * *Activity:* 1-hour walk to the waterfall (National Trust). Open & Free.
-* **11:30 | Scenic Drive: Ullswater**
-    * Drive along the lake (A592). Stop at **Glencoyne Bay**.
+* **09:30 | Orrest Head Viewpoint**
+    * *Location:* Windermere (Start near the train station).
+    * *Activity:* 20-min walk up for the best view of Lake Windermere.
+* **11:00 | Aira Force Waterfall**
+    * *Route Warning:* **Avoid Kirkstone Pass** (A592) if it is icy or closed (common in winter).
+    * *Safe Route:* Drive via Troutbeck (A591) or back up towards Penrith (A66).
+    * *Activity:* 1-hour walk to the waterfall. Open & Free.
 * **12:30 | Depart for London**
-    * Enjoy the empty roads!
+    * *Drive:* ~5.5 hours.
+    * *Traffic:* Roads will be empty.
 * **14:00 | Car Picnic**
     * Stop at **Tebay Services** (M6). Eat festive food bought on Dec 24.
-* **17:30 | Arrive Home**
+* **18:00 | Arrive Home**
