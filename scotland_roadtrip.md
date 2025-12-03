@@ -14,7 +14,7 @@
     * *Route:* M11 → A1(M). Avoids the M1 congestion.
     * *Drive:* ~4 hours.
 * **12:30 | Arrive York (Bishopthorpe)**
-    * *Accommodation:* **Airbnb (Bishopthorpe Village)**.
+    * *Accommodation:* **Airbnb Bishopthorpe**.
     * *Parking:* Free on-street parking at the Airbnb.
 * **13:30 | Into the City**
     * *Transport:* Take **Bus #11** from the village (20 mins) OR drive 5 mins to **Askham Bar Park & Ride**.
@@ -37,11 +37,11 @@
     * *Action:* Park at "Links Car Park". Walk onto the beach for the iconic castle view (Free).
     * *Lunch:* **The Copper Kettle** (Bamburgh Village).
 * **15:00 | Arrive Edinburgh (Courtyard West)**
-    * *Accommodation:* **Courtyard by Marriott Edinburgh West**.
-    * *Parking:* Free on-site parking (Huge bonus).
-    * *Check-in:* Drop bags in the "2 Double Beds" room.
+    * *Accommodation:* **Courtyard by Marriott Edinburgh West** (Heriot-Watt).
+    * *Parking:* Free on-site parking. **Register car at reception.**
+    * *Check-in:* Drop bags in the room.
 * **16:00 | Into the City**
-    * *Transport:* Take **Lothian Bus #25** (or 34/35) from Heriot-Watt Campus. Runs every 15 mins.
+    * *Transport:* Take **Lothian Bus #25** (or 34/35) from campus. Runs every 15 mins.
     * *Destination:* Princes Street.
 * **17:00 | Princes Street Gardens Market**
     * *Activity:* Christmas Market, Mulled Wine, Scott Monument.
@@ -83,15 +83,15 @@
 * **15:30 | Glenfinnan Viaduct**
     * *Location:* `PH37 4LT`.
     * *The View:* Walk the short trail (10 mins) to the viewpoint. You arrive just before sunset (3:50 PM).
-* **16:30 | Check-in Hotel**
-    * *Location:* Fort William or Glencoe area.
-* **🛌 Accommodation:**
-    * *Options:* **The Isles of Glencoe Hotel** or **Premier Inn Fort William**.
+* **16:30 | Check-in: Onich Hotel**
+    * *Location:* **Onich Hotel** (Near Glencoe).
+    * *Drive:* 35 mins back from Glenfinnan. Ideally located for tomorrow's start.
+    * *Dinner:* Eat at the hotel restaurant (Pre-book table).
 
 ### **Day 5: Wednesday, Dec 24 (The "Killin" Route South)**
 *Goal: Waterfalls, Ruins, and Ancient Stones before Christmas Eve dinner.*
 
-* **08:30 | Depart Hotel**
+* **08:30 | Depart Onich Hotel**
 * **09:15 | Kilchurn Castle**
     * *Stop:* 15 mins. Photo of the ruins from the roadside layby.
 * **10:15 | Falls of Dochart (Killin)**
@@ -104,19 +104,18 @@
     * *Note:* Only visit if roads are clear of ice. It is a secluded ruin.
 * **15:30 | Castlerigg Stone Circle (Keswick)**
     * *Highlight:* Arrive for "Golden Hour" (Sunset 3:45 PM). Free ancient stones with mountain backdrop.
-* **16:30 | Check-in (Lake District)**
+* **16:30 | Check-in: Ambleside Rooms & Suites**
+    * *Deadline:* **MUST arrive before 20:00 (8 PM)**.
+    * *Parking:* 18 spaces for 23 rooms. If full, use **Low Fold Car Park** nearby.
 * **18:00 | Christmas Eve Dinner**
-    * *Action:* **Pre-book a table.**
-    * *Suggestion:* **The Dog & Gun** (Keswick).
-* **🛌 Accommodation (Lake District):**
-    * *Book:* **Premier Inn Penrith** or **Travelodge Cockermouth** (Allows 1-night stay).
+    * *Action:* **Pre-book a table** in Ambleside or Keswick.
 
 ### **Day 6: Thursday, Dec 25 (Christmas Return)**
 * **09:30 | Orrest Head Viewpoint**
     * *Location:* Windermere (Start near the train station).
     * *Activity:* 20-min walk up for the best view of Lake Windermere.
 * **11:00 | Aira Force Waterfall**
-    * *Route Warning:* **Avoid Kirkstone Pass** (A592) if it is icy or closed (common in winter).
+    * *Route Warning:* **Avoid Kirkstone Pass** (A592) if it is icy.
     * *Safe Route:* Drive via Troutbeck (A591) or back up towards Penrith (A66).
     * *Activity:* 1-hour walk to the waterfall. Open & Free.
 * **12:30 | Depart for London**
