@@ -12,16 +12,19 @@
 
 ### **Saturday, Dec 13: London & Winter Wonderland**
 * **Morning:** Private Event.
-* **15:30:** Head to **Hyde Park**.
-* **16:00:** **Hyde Park Winter Wonderland** (Tickets Booked).
-    * *Note:* Arrive on time for your slot.
+* **14:30:** Head to **Hyde Park**.
+    * *Transport:* Tube to **Hyde Park Corner** or **Marble Arch**.
+* **15:00:** **Hyde Park Winter Wonderland**.
+    * *Action:* **Entry Slot Booked (15:00)**.
+    * *Tip:* You are entering just before sunset (~15:50). It’s the perfect time to watch the lights turn on.
 
 ### **Sunday, Dec 14: Bath Christmas Market**
 * **07:30:** Depart for **Bath** (Park & Ride: Lansdown `BA1 9BJ`).
 * **10:30:** Park & take the bus into the city.
-* **11:00:** **Bath Christmas Market** (Final Day!).
+* **11:00:** **Bath Christmas Market**.
+    * *Warning:* This is the **Final Day** of the market. It closes at 18:00.
 * **14:00:** Visit **Royal Crescent** & **Bath Abbey**.
-* **16:30:** Return Drive (Market closes at 18:00 on Sunday).
+* **16:30:** Return Drive.
 
 ---
 
@@ -62,7 +65,7 @@
 
 | Date | Event/Hotel | Status |
 | :--- | :--- | :--- |
-| **Dec 13** | **Hyde Park Winter Wonderland** (Tickets) | [x] |
+| **Dec 13** | **Hyde Park Winter Wonderland** (15:00 Slot) | [x] |
 | **Dec 20** | Hotel: **Airbnb Bishopthorpe (York)** | [x] |
 | **Dec 21** | Hotel: **Courtyard Marriott Edinburgh West** | [x] |
 | **Dec 22** | Ticket: **Edinburgh Castle** (09:30) | [ ] |
