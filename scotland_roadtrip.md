@@ -1,4 +1,4 @@
-# 🏴󠁧󠁢󠁳󠁣󠁴󠁿 The Great Christmas Scotland Road Trip (Dec 20–25)
+# 🏴󠁧󠁢󠁳󠁣󠁴󠁿 The Great Christmas Scotland Road Trip (Dec 20–25) 
 
 **Phase Overview:**
 * **Dates:** Dec 20 – Dec 25, 2025.
