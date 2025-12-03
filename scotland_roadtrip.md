@@ -63,6 +63,7 @@
 
 ### **Day 4: Tuesday, Dec 23 (The "Wife's Wishlist" Route)**
 *Goal: Hit 3 iconic locations before reaching Glenfinnan at sunset. Tight timing!*
+📍 **[Click for Google Map Route: Edinburgh -> Glenfinnan -> Onich](https://www.google.com/maps/dir/Courtyard+by+Marriott+Edinburgh+West/The+Kelpies/Stirling+Castle/Doune+Castle/Glencoe+Viewpoint/Glenfinnan+Viaduct/Onich+Hotel,+Fort+William)**
 
 * **08:00 | Depart Edinburgh (Strict Start)**
     * *Drive:* 50 mins.
@@ -90,6 +91,7 @@
 
 ### **Day 5: Wednesday, Dec 24 (The "Killin" Route South)**
 *Goal: Waterfalls, Ruins, and Ancient Stones before Christmas Eve dinner.*
+📍 **[Click for Google Map Route: Onich -> Killin -> Moffat -> Keswick](https://www.google.com/maps/dir/Onich+Hotel,+Fort+William/Kilchurn+Castle+Viewpoint/Falls+of+Dochart/Moffat/Castlerigg+Stone+Circle/Ambleside+Rooms+%26+Suites)**
 
 * **08:30 | Depart Onich Hotel**
 * **09:15 | Kilchurn Castle**
