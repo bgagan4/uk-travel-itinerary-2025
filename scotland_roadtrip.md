@@ -13,20 +13,19 @@
 * **08:00 | Depart London**
     * *Route:* M11 → A1(M). Avoids the M1 congestion.
     * *Drive:* ~4 hours.
-* **12:30 | Arrive York**
-    * *Parking:* **Q-Park Shambles** (`YO1 7NZ`) or check hotel parking.
-* **13:30 | Lunch & The Shambles**
-    * Eat at the **Shambles Market Food Court**.
-    * Walk down **The Shambles** (Harry Potter inspiration).
+* **12:30 | Arrive York (Bishopthorpe)**
+    * *Accommodation:* **Airbnb (Bishopthorpe Village)**.
+    * *Parking:* Free on-street parking at the Airbnb.
+* **13:30 | Into the City**
+    * *Transport:* Take **Bus #11** from the village (20 mins) OR drive 5 mins to **Askham Bar Park & Ride**.
+    * *Lunch:* Eat at the **Shambles Market Food Court**.
 * **15:00 | York Minster**
     * Visit the cathedral (Tickets required, but worth it inside).
 * **16:30 | St Nicholas Fair (Market)**
     * *Location:* Parliament Street.
     * *Note:* This is the *last full weekend* of the market.
 * **19:00 | Dinner**
-    * *Suggestion:* **The Old White Swan** or **Fancy Hank's**.
-* **🛌 Accommodation (York):**
-    * *Options:* **Novotel York Centre** or **Ibis Styles York**.
+    * *Suggestion:* **The Marcia Inn** (Bishopthorpe) for a local meal, or stay in the city for **The Old White Swan**.
 
 ### **Day 2: Sunday, Dec 21 (York → Coast → Edinburgh)**
 * **08:30 | Depart York**
@@ -37,12 +36,15 @@
     * *Drive:* ~1 hour North.
     * *Action:* Park at "Links Car Park". Walk onto the beach for the iconic castle view (Free).
     * *Lunch:* **The Copper Kettle** (Bamburgh Village).
-* **15:00 | Arrive Edinburgh**
-    * *Parking:* **NCP Castle Terrace** (`EH1 2EW`) if hotel has none.
-* **16:00 | Princes Street Gardens Market**
+* **15:00 | Arrive Edinburgh (Courtyard West)**
+    * *Accommodation:* **Courtyard by Marriott Edinburgh West**.
+    * *Parking:* Free on-site parking (Huge bonus).
+    * *Check-in:* Drop bags in the "2 Double Beds" room.
+* **16:00 | Into the City**
+    * *Transport:* Take **Lothian Bus #25** (or 34/35) from Heriot-Watt Campus. Runs every 15 mins.
+    * *Destination:* Princes Street.
+* **17:00 | Princes Street Gardens Market**
     * *Activity:* Christmas Market, Mulled Wine, Scott Monument.
-* **🛌 Accommodation (Edinburgh - 2 Nights):**
-    * *Options:* **Apex Grassmarket** or **Premier Inn Edinburgh City (Lauriston Place)**.
 
 ### **Day 3: Monday, Dec 22 (Edinburgh City)**
 * **09:30 | Edinburgh Castle**
@@ -56,6 +58,8 @@
     * A short walk up for the classic skyline photo.
 * **18:00 | The Dome Lights**
     * Walk to **George Street** to see The Dome's famous Christmas lights.
+* **20:00 | Return to Hotel**
+    * Take Bus #25 back to Courtyard West.
 
 ### **Day 4: Tuesday, Dec 23 (The "Wife's Wishlist" Route)**
 *Goal: Hit 3 iconic locations before reaching Glenfinnan at sunset. Tight timing!*
