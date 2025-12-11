@@ -2,7 +2,7 @@
 
 **Trip Overview:**
 * **Travelers:** 4 Adults + Car.
-* **Base:** Bexleyheath.
+* **Base:** London.
 * **Goals:** Major events, Scotland Road Trip, Family Time.
 
 ---
@@ -13,10 +13,8 @@
 ### **Saturday, Dec 13: London & Winter Wonderland**
 * **Morning:** Private Event.
 * **14:30:** Head to **Hyde Park**.
-    * *Transport:* Tube to **Hyde Park Corner** or **Marble Arch**.
-* **15:00:** **Hyde Park Winter Wonderland**.
-    * *Action:* **Entry Slot Booked (15:00)**.
-    * *Tip:* You are entering just before sunset (~15:50). It’s the perfect time to watch the lights turn on.
+* **15:00:** **Hyde Park Winter Wonderland** (Booked).
+    * *Tip:* Arrive on time for your slot.
 
 ### **Sunday, Dec 14: Bath Christmas Market**
 * **07:30:** Depart for **Bath** (Park & Ride: Lansdown `BA1 9BJ`).
@@ -28,7 +26,7 @@
 
 ---
 
-## 🚗 Phase 2: The Scotland Road Trip (Dec 20 – Dec 25)
+## 🚗 Phase 2: The Scotland Road Trip (Dec 20 – Dec 26)
 *We have separated this detailed plan into its own file for easier navigation.*
 
 ### 📄 **[Click here to open the Scotland Road Trip Itinerary](./scotland_roadtrip.md)**
@@ -37,9 +35,10 @@
 * **Dec 20:** London → York (**Airbnb Bishopthorpe**).
 * **Dec 21:** York → Bamburgh Castle → Edinburgh (**Courtyard West**).
 * **Dec 22:** Edinburgh Castle & City.
-* **Dec 23:** **The Kelpies, Stirling (Outside), Glencoe & Glenfinnan**. Stay: **Onich Hotel**.
-* **Dec 24:** **Killin (Falls), Moffat & Castlerigg Stones**. Stay: **Ambleside Rooms**.
-* **Dec 25:** **Orrest Head, Waterfalls & Drive Home**.
+* **Dec 23:** **Stirling, Glencoe & Glenfinnan**. Stay: **Onich Hotel**.
+* **Dec 24:** **Skye (Eilean Donan) & Loch Ness**. Stay: **Muthu Fort William**.
+* **Dec 25:** **Killin (Falls) & Drive to Lakes**. Stay: **Ambleside Rooms**.
+* **Dec 26:** **Orrest Head, Waterfalls & Drive Home**.
 
 ---
 
@@ -57,7 +56,7 @@
 * **11:45:** Walk the trail to the cliffs/beach.
 * **13:30:** Lunch at **The Eight Bells** (Jevington) - *Book Now*.
 * **15:30:** Sunset at **Beachy Head Lighthouse**.
-* **17:00:** Return Home.
+* **17:00:** Return to Base.
 
 ---
 
@@ -70,7 +69,8 @@
 | **Dec 21** | Hotel: **Courtyard Marriott Edinburgh West** | [x] |
 | **Dec 22** | Ticket: **Edinburgh Castle** (09:30) | [ ] |
 | **Dec 23** | Hotel: **Onich Hotel** (Near Glencoe) | [x] |
-| **Dec 24** | Hotel: **Ambleside Rooms & Suites** | [x] |
-| **Dec 24** | Dinner: Ambleside/Keswick | [ ] |
+| **Dec 24** | Hotel: **Muthu Fort William** | [x] |
+| **Dec 24** | Dinner: **Fort William** (Book ASAP) | [ ] |
+| **Dec 25** | Hotel: **Ambleside Rooms & Suites** | [x] |
 | **Dec 27** | Ticket: **Blenheim Palace Lights** | [ ] |
 | **Jan 01** | Lunch: **The Eight Bells Jevington** | [ ] |
