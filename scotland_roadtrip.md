@@ -53,7 +53,7 @@
 * **18:00 | The Dome Lights**
     * George Street Christmas lights.
 
-### **Day 4: Tuesday, Dec 23 (The "Wife's Wishlist" Route)**
+### **Day 4: Tuesday, Dec 23
 *Goal: Historic Castles & The Glencoe Drive.*
 📍 **[CLICK HERE to open Day 4 Route Map](https://maps.google.com/?cid=9463387316565041206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ7)**
 
